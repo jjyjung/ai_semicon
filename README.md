@@ -27,9 +27,10 @@
 - pokemon.jpg
 - WM811k.zip
 
-## 과제
+## 실습과제
 
-- [CNN을 이용한 반도체 이미지 불량 검출](homework.md)
+- 제목: 반도체 이미지 불량 검출 CNN 모델 개발
+- 설명: Original WM811k Silicon Wafer Map Image 데이터셋을 대상으로 최고 성능의 CNN 모델을 개발하시오.
 - dataset: [WM811k_origin.zip](https://drive.google.com/file/d/1PYeyy5p5rtIA-dvzH2G2yNLIAPjwA4Kg/view?usp=drive_link)
-- 제출방법: 분석보고서와 ipynb 소스코드를 khu.iailab@gmail.com으로 송부
+- 제출방법: 결과보고서와 ipynb 소스코드를 khu.iailab@gmail.com으로 송부
 - 기한: 2026년 7월 8일 18시까지
