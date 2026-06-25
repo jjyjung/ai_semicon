@@ -26,3 +26,10 @@
 - iris.csv
 - pokemon.jpg
 - WM811k.zip
+
+## 과제
+
+- [CNN을 이용한 반도체 이미지 불량 검출](homework.md)
+- dataset: [WM811k_origin.zip](https://drive.google.com/file/d/1PYeyy5p5rtIA-dvzH2G2yNLIAPjwA4Kg/view?usp=drive_link)
+- 제출방법: 분석보고서와 ipynb 소스코드를 khu.iailab@gmail.com으로 송부
+- 기한: 2026년 7월 8일 18시까지
