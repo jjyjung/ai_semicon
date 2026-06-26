@@ -1,1 +1,1 @@
-!unzip -q "/content/gdrive/My Drive/Colab Notebooks/ai_semicon/WM811k_origin.zip" -d "/content/gdrive/My Drive/Colab Notebooks/ai_semicon"
+!unzip -q "/content/gdrive/My Drive/Colab Notebooks/ai/WM811k.zip" -d "/content/gdrive/My Drive/Colab Notebooks/ai"
